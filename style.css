@@ -1,0 +1,33 @@
+.nav {
+    float: left;
+    padding: 20px;
+    font-size: larger;
+}
+body {
+  font-family:monospace;
+}
+#navigationBar{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+.nav:hover {
+    background-color: rgb(68, 67, 67);
+  }
+p{
+  color:lawngreen;
+  font-family:sans-serif;
+  text-align: center;
+}
+body{
+  background-color:cadetblue;
+}
+h1{
+  color:orangered;
+  font-family:monospace;
+  font-size: xx-large;
+  text-align: center;
+}
+

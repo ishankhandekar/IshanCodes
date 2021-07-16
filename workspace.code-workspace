@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "gameSite",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gameSite"
+	}
+}

@@ -1,0 +1,23 @@
+.nav {
+    float: left;
+    padding: 20px;
+    font-size: larger;
+}
+
+#navigationBar{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.nav:hover {
+    background-color: rgb(235, 139, 15);
+  }
+body{
+    background-color:grey
+}
+div{
+    text-align: center;
+    font-family:monospace;
+}

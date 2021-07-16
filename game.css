@@ -1,0 +1,33 @@
+.nav {
+    float: left;
+    padding: 20px;
+    font-size: larger;
+}
+
+#navigationBar{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #10f7c5;
+}
+.nav:hover {
+    background-color: rgb(20, 236, 200);
+  }
+h1{
+  text-align:center;
+}
+#container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.gameLink {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  padding: 10px;
+  border-radius: 10px;
+  max-width:150px;
+}
+body{
+  background-color:lightcyan
+}
